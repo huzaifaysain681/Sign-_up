@@ -85,7 +85,7 @@ function MainDiv() {
           <div className="w-full md:w-1/2 bg-black text-white p-8 flex justify-center items-center">
             <img
               src="image.webp"
-              alt="Your Image"
+              alt="Logo"
               className="max-h-full max-w-full"
             />
           </div>
